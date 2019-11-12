@@ -23,9 +23,9 @@ np.random.seed(1) # set the random set for reproducability
 randomized = np.random.permutation(dc_listings.index) # randomize the indices
 dc_listings = dc_listings.loc[randomized]
 dc_listings = dc_listings.sort_values("distance") # sort by ascending distance. Because we have 461 zero distance listings, shuffling is the only way to make their order random
-												#	if we don't randomize, we 461 zeros do not get sorted because there is no rule additional rule to sort equal values (zeros). 
-												#	e.g. distance column before randomization: [0] 0 [1] 0 [2] 0 [3] 0 [4] 0
-												#	e.g. distance column after randomization: [4] 0 [2] 0 [0] 0 [3] 0 [1] 0. This makes sure the listings are randomized.
+			#	if we don't randomize, we 461 zeros do not get sorted because there is no rule additional rule to sort equal values (zeros). 
+			#	e.g. distance column before randomization: [0] 0 [1] 0 [2] 0 [3] 0 [4] 0
+			#	e.g. distance column after randomization: [4] 0 [2] 0 [0] 0 [3] 0 [1] 0. This makes sure the listings are randomized.
 print(dc_listings["price"].head(10))
 
 # To calculate the price of our house, we will need to clean the 'price' column and take the mean of the first five rows.
