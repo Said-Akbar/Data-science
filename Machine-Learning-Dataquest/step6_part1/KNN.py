@@ -5,7 +5,7 @@
 import pandas as pd
 import numpy as np
 
-dc_listing = pd.read_csv("dc_listing.csv") # read in the dataset
+dc_listings = pd.read_csv("dc_listing.csv") # read in the dataset
 
 # e.g. if we want to calculate the Euclidian distance between a living space that has 3 people and the first listed house in the data, we use ((a-b)**2)**1/2 = abs(a-b)
 first_distance = abs(3-dc_listings['accommodates'][0]) # |3-2|=1
