@@ -16,7 +16,7 @@ Completion date: In progress
 
 ***
 ### 1. Machine Learning Fundamentals
- - Completion date: In progress
+ - Completion date: 11/16/2019
 
 ### 2. Calculus for ML
  - Completion date: NA
