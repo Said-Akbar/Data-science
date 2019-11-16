@@ -19,7 +19,7 @@ Completion date: In progress
  - Completion date: 11/16/2019
 
 ### 2. Calculus for ML
- - Completion date: NA
+ - Completion date: In progress
 
 ### 3. Linear Algebra for ML
  - Completion date: NA
