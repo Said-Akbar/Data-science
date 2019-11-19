@@ -22,10 +22,10 @@ Completion date: In progress
  - Completion date: 11/17/2019
 
 ### 3. Linear Algebra for ML
- - Completion date: In progress
+ - Completion date: 11/19/2019
 
 ### 4. Linear Regression for ML
- - Completion date: NA
+ - Completion date: In progress
 
 ### 5. ML in Python: Intermediate
  - Completion date: NA
