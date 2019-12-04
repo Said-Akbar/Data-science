@@ -25,7 +25,7 @@ Completion date: In progress
  - Completion date: 11/19/2019
 
 ### 4. Linear Regression for ML
- - Completion date: In progress
+ - Completion date: Paused since 11/21/2019. Will resume after finishing some work.
 
 ### 5. ML in Python: Intermediate
  - Completion date: NA
