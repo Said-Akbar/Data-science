@@ -26,7 +26,7 @@ Completion date: In progress
 
 ### 4. Linear Regression for ML
  - Completion date: Paused since 11/21/2019. Will resume after finishing some work.
- - Resumed: 6/12/2020. I will continue from where I left. I found motivation and time to continue again after adjusting to work environment and lots of events such as pandemic and more hit our lives. But continuing the learning is the primary goal from now on.
+ - Resumed: 6/12/2020. I will continue from where I left off. I found motivation and time to continue again after adjusting to work environment and lots of events such as pandemic and more hit our lives. But continuing the learning is the primary goal from now on.
 
 ### 5. ML in Python: Intermediate
  - Completion date: NA
