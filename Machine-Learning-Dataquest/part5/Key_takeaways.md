@@ -18,5 +18,5 @@ Following are my notes summary for part 5
 - Clustering is an unsupervised learning technique in which you categorize records based on their similarity
 - For 2-3 dimensions (fields), euclidean distance is a good measure for a similarity metric.
 - K-means technique is a method for categorizing data into K groups.
-- Choosing the right K is crucial (point for K is chosen randomly with sklearn)
+- Choosing the right K is crucial (centroid points for K is chosen randomly with sklearn)
 
