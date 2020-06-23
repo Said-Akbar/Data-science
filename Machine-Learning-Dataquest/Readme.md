@@ -29,7 +29,7 @@ Completion date: In progress
  - Resumed: 6/12/2020. I will continue from where I left off. I found motivation and time to continue again after adjusting to work environment and lots of events such as pandemic and more hit our lives. But continued learning is the primary goal from now on.
 
 ### 5. ML in Python: Intermediate
- - Completion date: 6/23/2020 (12 days since started)
+ - Completion date: 6/23/2020 (12 days since resumed)
 
 ### 6. Decision Trees
  - Completion date: NA
