@@ -12,7 +12,12 @@ Start date: 11/12/2019
 
 Planned Completion date: 12/12/2019
 
-Completion date: In progress
+Paused: 11/21/2019-6/12/2020
+
+Completion date: 7/1/2020
+
+Days spent: 10+18 = 28 days
+Completed: 83% of DataQuest courses in Data Science in Python Path
 
 ***
 ### 1. Machine Learning Fundamentals
@@ -32,6 +37,6 @@ Completion date: In progress
  - Completion date: 6/23/2020 (12 days since resumed)
 
 ### 6. Decision Trees
- - Completion date: NA
+ - Completion date: 7/1/2020
 
 ***
