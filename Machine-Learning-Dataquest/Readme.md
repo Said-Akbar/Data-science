@@ -17,6 +17,7 @@ Paused: 11/21/2019-6/12/2020
 Completion date: 7/1/2020
 
 Days spent: 10+18 = 28 days
+
 Completed: 83% of DataQuest courses in Data Science in Python Path
 
 ***
