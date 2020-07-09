@@ -7,7 +7,7 @@ Start date: 7/2/2020
 
 Planned Completion date: 7/16/2020
 
-Completion date: TBD
+Completion date: 7/6/2020
 
 Days spent: TBD
 
