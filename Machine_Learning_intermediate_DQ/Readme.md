@@ -7,14 +7,14 @@ Start date: 7/2/2020
 
 Planned Completion date: 7/16/2020
 
-Completion date: 7/6/2020
+Completion date: TBD
 
 Days spent: TBD
 
 Completed: TBD %
 
 ### 1. Deep Learning Fundamentals
- - Completion Date: TBD
+ - Completion Date: 7/6/2020
 
 ### 2. Machine Learning Project
  - Completion Date: TBD
