@@ -17,7 +17,7 @@ Completed: TBD %
  - Completion Date: 7/6/2020
 
 ### 2. Machine Learning Project
- - Completion Date: TBD
+ - Completion Date: 7/9/2020
  
 ### 3. Kaggle Fundamentals
  - Completion Date: TBD
