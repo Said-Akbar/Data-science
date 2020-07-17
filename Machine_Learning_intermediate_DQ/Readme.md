@@ -20,7 +20,7 @@ Completed: TBD %
  - Completion Date: 7/9/2020
  
 ### 3. Kaggle Fundamentals
- - Completion Date: TBD
+ - Completion Date: 7/14/2020
  
 ### 4. Natural Language Processing
  - Completion Date: TBD
