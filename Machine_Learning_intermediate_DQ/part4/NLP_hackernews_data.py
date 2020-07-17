@@ -1,3 +1,4 @@
+# 7/17/2020 Saidakbar P
 # We will train a linear regression on HackerNews data article headlines and see if the title results in higher upvotes.
 #To convert headlines into numerical representation, we will use the bag of words model.
 import pandas as pd
