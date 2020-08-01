@@ -15,16 +15,16 @@ Completed: TBD % of DataQuest 'Data Science in Python' track
  - Completion Date: 7/22/2020
 
 ### 2. Data Structures and Algorithms
- - Completion Date: TBD
+ - Completion Date: 7/27/2020
  
 ### 3. Python Programming Advanced
- - Completion Date: TBD
+ - Completion Date: 8/1/2020
  
 ### 4. Command Line: Intermediate
- - Completion Date: TBD
+ - Completion Date: early 2020
 
 ### 5. Git and Version Control
- - Completion Date: TBD
+ - Completion Date: December 2019
  
  ### 6. Spark and MapReduce
  - Completion Date: TBD
