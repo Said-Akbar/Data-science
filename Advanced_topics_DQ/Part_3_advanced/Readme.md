@@ -1,0 +1,1 @@
+This part of DQ introduces Advanced topics in Python programming such as Object-Oriented programming (classes), exception handling, lambda functions, computer architecture, and parallel processing. These topics are covered on a basic level to introduce how they work and what terminology they use.
